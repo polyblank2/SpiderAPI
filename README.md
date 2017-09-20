@@ -30,6 +30,7 @@ Access to Spider resources
         cache-control: max-age=600
         
     +Body
+        ```
         {
             "page" :
             {
@@ -50,3 +51,4 @@ Access to Spider resources
                 }
             ]
         }
+        ```
