@@ -4,7 +4,7 @@ HOST: http://api.spiderlog.net
 # Spider Log API
 Provides services for the Spider Log app family, recording the world's spider sightings
 
-#Group Spiders
+# Group Spiders
 Access to Spider resources
 
 ## My Spiders [/spiders{?page,size}]
